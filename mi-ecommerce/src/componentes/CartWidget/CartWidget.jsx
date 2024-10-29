@@ -2,11 +2,9 @@
 
 const cartWidget = () => {
   return (
-    <div>cartWidget
-
-    <cartWidget/>
+    <div>🛒
+        <span>0</span>
     </div>
-    
   )
 }
 
